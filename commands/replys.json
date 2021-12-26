@@ -1,0 +1,261 @@
+{
+  "en":{
+    "signin":{
+      "reply1": "> **Please enter cookies after command !**",
+      "reply2": "> **Sorry, this cookie is already registered !**",
+      "reply3": "> **Successfully registered by cookies !**",
+      "reply4": "> **Sorry, these cookies are not valid !**",
+      "reply5": "> **You are already registered with a cookie. Log out first !**"
+    },
+    "signout":{
+      "reply1": "> **Sorry, you are not registered !**",
+      "reply2": "> **You have signed out successfully !**"
+    },
+    "setgroup":{
+      "reply1": "> **Please enter the group ID after the command !**",
+      "reply2": "> **Sorry, this ID is invalid !**",
+      "reply3": "> **The group was successfully identified !**",
+      "reply4": "> **Sorry, this group is already set !**",
+      "reply5": "> **You must first register with cookies !**",
+      "reply6": "> **The registered account must be the owner of the group !**"
+    },
+    "setrecipient":{
+      "reply1": "> **Please specify the future after the command !**",
+      "reply2": "> **Sorry, I cannot find this user !**",
+      "reply3": "> **Sorry, you cannot select robots !**",
+      "reply4": "> **Sorry, this user is already specified !**",
+      "reply5": "> **User selected successfully !**"
+    },
+    "setprice":{
+      "reply1": "> **Please specify the price after the command !**",
+      "reply2": "> **Sorry, please specify a valid value !**",
+      "reply3": "> **The price was set successfully !**",
+      "reply4": "> ** Sorry, you can only set 1 as a minimum! **"
+    },
+    "setthanksroom":{
+      "reply1": "> **Please select the channel after the command !**",
+      "reply2": "> **Sorry, I cannot find this channel !**",
+      "reply3": "> **Sorry, please select a valid channel !**",
+      "reply4": "> **Sorry, this channel is already selected !**",
+      "reply5": "> **The channel has been selected successfully !**"
+    },
+    "setlang":{
+      "reply1": "> **Please select the language after the command !**",
+      "reply2": "> **Sorry, this language is not available !**",
+      "reply3": "> **Sorry, this language is already set !**",
+      "reply4": "> **Language changed successfully !**"
+    },
+    "reset":{
+      "reply1": "> **System reset successfully !**"
+    },
+    "stock":{
+      "reply1": "> **Number of Robux in the group : [num] !**"
+    },
+    "setrole":{
+      "reply1": "> **Sorry, please specify the role after the command !**",
+      "reply2": "> **Sorry, I cannot find this role !**",
+      "reply3": "> **The role was selected successfully !**",
+      "reply4": "> **Sorry, this role is predefined !**"
+    },
+    "give":{
+      "reply1": "> **Sorry, please check the validity of cookies and group !**",
+      "reply2": "> **Sorry, please enter the player name after the command !**",
+      "reply3": "> **Sorry, please enter the amount to be transferred after the player's name !**",
+      "reply4": "> **Sorry, please enter a valid value !**",
+      "reply5": "> **Sorry, I cannot find this player !**",
+      "reply6": "> **Sorry, this player is not in the group !**",
+      "reply7": "> **Sorry, this amount of Robux is not available !**",
+      "reply8": "> **Sorry, the minimum transfer is one Robux !**",
+      "reply9": "> **The robux has been converted successfully !**",
+      "reply10": "> **Sorry, I couldn't convert the robux !**"
+    },
+    "setdiscount":{
+      "reply1": "> **Sorry, please enter a percentage discount after the command !**",
+      "reply2": "> **Sorry, please enter a valid value !**",
+      "reply3": "> **Sorry, you can only specify a percentage between 1 to 99 as a percentage !**",
+      "reply4": "> **Sorry, this percentage is predefined !**",
+      "reply5": "> **Discount has been determined successfully !**"
+    },
+    "setlimit":{
+      "reply1": "> **Sorry, please enter the limit after the command !**",
+      "reply2": "> **Sorry, please enter a valid value !**",
+      "reply3": "> **Sorry, you can only set its rating over 0 !**",
+      "reply4": "> **Sorry, this limit is already set !**",
+      "reply5": "> **The limit was determined successfully !**"
+    },
+    "status":{
+      "reply1": "> **Activated !**",
+      "reply2": "> **Deactivated !**"
+    },
+    "buy":{
+      "reply1": "Buy ROBUX",
+      "reply2": "> **Sorry, it has been canceled !**",
+      "reply3": "> **How much do you want to buy ROBUX ?**",
+      "reply4": "> **Sorry, you can buy at least [lim] ROBUX's !**",
+      "reply5": "> **Convert [num] Credits ProBot To [mention] **\n> **You only have 2 minutes to transfer**",
+      "reply6": "> **Please enter your name in the game**",
+      "reply7": "> **Sorry, I cannot find this player !**",
+      "reply8": "> **The purchase was completed successfully !**",
+      "reply9": "> **Sorry, the purchase is currently closed !**",
+      "reply10": "> **Sorry, you are not in the group !**",
+      "reply11": "> **Purchased by : [mention]**",
+      "reply12": "> **Sorry, this number of Robux is not available !**",
+      "reply13": "> **Sorry, you have a previous purchase, you need to finalize it or cancel it !**",
+      "reply14": "> **Sorry, you do not have purchases to cancel it !**",
+      "reply15": "> **The purchase has been successfully canceled !**",
+      "reply16": "> **Please write a word expressing your thanks [room] !**",
+      "reply17": "> **Group link : [url]**",
+      "reply18": "> **Sorry, there was a problem converting the robux **\n> **Please contact our support team !**",
+      "reply19": "**Sorry, the conversion time has expired !**"
+    }
+  },
+  "ar":{
+    "signin":{
+      "reply1": "> **من فضلك قم بإدخال الكوكيز بعد الأمر !**",
+      "reply2": "> **عذراً فهذا الكوكيز مسجل مسبقاً !**",
+      "reply3": "> **تم التسجيل بواسطة الكوكيز بنجاح !**",
+      "reply4": "> **عذراً فهذا الكوكيز غير صالح !**",
+      "reply5": "> **انت مسجل بواسطة كوكيز مسبقاً سجل الخروج أولاً !**"
+    },
+    "signout": {
+      "reply1": "> **عذراً فأنت لست مسجل أساساً**"  ,
+      "reply2": "> **تم تسجيل الخروج بنجاح !**"
+    },
+    "setgroup":{
+      "reply1": "> **الرجاء إدخال معرف المجموعة بعد الأمر !**",
+      "reply2": "> **عذراً هذا المعرف غير صالح !**",
+      "reply3": "> **تم تحديد المجموعة بنجاح !**",
+      "reply4": "> **عذراً فهذه المجموعة محددة مسبقاً !**",
+      "reply5": "> **يجب أولاً أن تقوم بالتسجيل بواسطة الكوكيز !**",
+      "reply6": "> **يجب أن يكون الحساب المسجل مالك المجموعة !**"
+    },
+    "setrecipient":{
+      "reply1": "> **الرجاء تحديد المستقبل بعد الأمر !**",
+      "reply2": "> **عذراً لايمكنني إيجاد هذا المستخدم !**",
+      "reply3": "> **عذراً لايمكنك تحديد الروبوتات !**",
+      "reply4": "> **عذراً فهذا المستخدم محدد مسبقاً !**",
+      "reply5": "> **تم تحديد المستخدم بنجاح !**"
+    },
+    "setprice":{
+      "reply1": "> **الرجاء تحديد السعر بعد الأمر !**",
+      "reply2": "> **عذراً الرجاء تحديد قيمة صالحة بعد الأمر !",
+      "reply3": "> **تم تحديد الأمر بنجاح !**",
+      "reply4": "> **عذراً يمكنك فقط تحديد ١ كحد أدنى !**"
+    },
+    "setthanksroom":{
+      "reply1": "**الرجاء تحديد القناة بعد الأمر !**",
+      "reply2": "> **عذراً لايمكنني العثور على هذه القناة !**",
+      "reply3": "> **عذراً الرجاء تحديد قناة صالحة !**",
+      "reply4": "> **عذراً هذه القناة محددة مسبقاً !**",
+      "reply5": "> **تم تحديد القناة بنجاح !**"
+    },
+    "setlang":{
+      "reply1": "> **الرجاء تحديد اللغة بعد الأمر !**",
+      "reply2": "> **عذراً فهذه اللغة غير متوفرة !**",
+      "reply3": "> **عذراً هذه اللغة محددة مسبقاً !**",
+      "reply4": "> **تم تغيير اللغة بنجاح !**"
+    },
+    "reset":{
+      "reply1": "> **تم إعادة ضبط النظام بنجاح !**"
+    },
+    "stock":{
+      "reply1": "> **عدد الروبكس الذي في المجموعة : [num] !**"
+    },
+    "setrole":{
+      "reply1": "> **عذراً الرجاء تحديد الدور بعد الأمر !**",
+      "reply2": "> **عذراً لايمكنني العثور على هذا الدور !**",
+      "reply3": "> **تم تحديد الدور بنجاح !**",
+      "reply4": "> **عذراً فهذا الدور محدد مسبقاً !**"
+    },
+    "give":{
+      "reply1": "> **عذراً الرجاء التحقق من صلاحية الكوكيز والمجموعة !**",
+      "reply2": "> **عذراً الرجاء إدخال أسم اللاعب بعد الأمر !**",
+      "reply3": "> **عذراً الرجاء إدخال المبلغ المراد تحويلة بعد أسم اللاعب !**",
+      "reply4": "> **عذراً الرجاء إدخال قيمة صالحة !**",
+      "reply5": "> **عذراً لايمكنني العثور على هذا اللاعب !**",
+      "reply6": "> **عذراً فهذا اللاعب غير متواجد في المجموعة !**",
+      "reply7": "> **عذراً هذا المبلغ من الروبكس غير متوفر !**",
+      "reply8": "> **عذراً فالحد الأدنى للتحويل هو واحد روبكس !**",
+      "reply9": "> **تم تحويل الروبكس بنجاح !**",
+      "reply10": "> **عذراً لم أستطع تحويل الروبكس !**"
+    },
+    "setdiscount":{
+      "reply1": "> **عذراً الرجاء إدخال قيمة الخصم بالنسبة المئوية بعد الأمر !**",
+      "reply2": "> **عذراً الرجاء إدخال قيمة صالحة !**",
+      "reply3": "> **عذراً فقط يمكنك تحديد قيمة مابين ١ إلى ٩٩ نسبة مئوية !**",
+      "reply4": "> **عذراً فهذه النسبة المئوية محددة مسبقا !**",
+      "reply5": "> **تم تحديد قيمة الخصم بنجاح !**"
+    },
+    "setlimit":{
+      "reply1": "> **عذراً الرجاء إدخال الحد بعد الأمر !**",
+      "reply2": "> **عذراً الرجاء إدخال قيمة صالحة !**",
+      "reply3": "> **عذراً فقط يمكنك تحديد قيمة تزيد عن ٠ !**",
+      "reply4": "> **عذراً فهذا الحد محدد مسبقاً !**",
+      "reply5": "> **تم تحديد الحد بنجاح !**"
+    },
+    "status":{
+      "reply1": "> **تم التفعيل !**",
+      "reply2": "> **تم التعطيل !**"
+    },
+    "buy":{
+      "reply1": "شراء روبكس",
+      "reply2": "> **عذراً فقد تم الإلغاء !**",
+      "reply3": "> **كم تريد شراء روبكس ؟**",
+      "reply4": "> **عذراً يمكنك شراء [lim] روبكس على الأقل !**",
+      "reply5": "> **قم بتحويل [num] كريدت بروبوت إلى [mention] **\n> **لديك دقيقتان فقط للتحويل**",
+      "reply6": "> **الرجاء إدخال أسمك في اللعبة**",
+      "reply7": "> **عذراً لايمكنني العثور على هذا اللاعب !**",
+      "reply8": "> **تمت عملية الشراء بنجاح !**",
+      "reply9": "> **عذراً فالشراء مغلق حالياً !**",
+      "reply10": "> **عذراً فأنت لست متواجد في المجموعة !**",
+      "reply11": "> **تم الشراء بواسطة : [mention]**",
+      "reply12": "> **عذراً فهذا العدد من الروبكس غير متوفر !**",
+      "reply13": "> **عذراً فلديك عملية شراء سابقة ، عليك إنهائها او إلغائها !**",
+      "reply14": "> **عذراً فليس لديك عمليات شراء لإلغائها !**",
+      "reply15": "> **تم إلغاء عملية الشراء بنجاح !**",
+      "reply16": "> **من فضلك قم بكتابة كلمة تعبر عن شكرك [room] !**",
+      "reply17": "> **رابط المجموعة : [url]**",
+      "reply18": "> **عذراً فقد حدثت مشكلة أثناء تحويل الروبكس **\n> **الرجاء التواصل مع فريق الدعم !**",
+      "reply19": "**عذراً فقد إنتهئ وقت التحويل !**"
+    },
+        "setdiscount":{
+      "reply1": "> **عذراً الرجاء إدخال قيمة الخصم بالنسبة المئوية بعد الأمر !**",
+      "reply2": "> **عذراً الرجاء إدخال قيمة صالحة !**",
+      "reply3": "> **عذراً فقط يمكنك تحديد قيمة مابين ١ إلى ٩٩ نسبة مئوية !**",
+      "reply4": "> **عذراً فهذه النسبة المئوية محددة مسبقا !**",
+      "reply5": "> **تم تحديد قيمة الخصم بنجاح !**"
+    },
+    "setlimit":{
+      "reply1": "> **عذراً الرجاء إدخال الحد بعد الأمر !**",
+      "reply2": "> **عذراً الرجاء إدخال قيمة صالحة !**",
+      "reply3": "> **عذراً فقط يمكنك تحديد قيمة تزيد عن ٠ !**",
+      "reply4": "> **عذراً فهذا الحد محدد مسبقاً !**",
+      "reply5": "> **تم تحديد الحد بنجاح !**"
+    },
+    "status":{
+      "reply1": "> **تم التفعيل !**",
+      "reply2": "> **تم التعطيل !**"
+    },
+    "buy":{
+      "reply1": "شراء روبكس",
+      "reply2": "> **عذراً فقد تم الإلغاء !**",
+      "reply3": "> **كم تريد شراء روبكس ؟**",
+      "reply4": "> **عذراً يمكنك شراء [lim] روبكس على الأقل !**",
+      "reply5": "> **قم بتحويل [num] كريدت بروبوت إلى [mention] **\n> **لديك دقيقتان فقط للتحويل**",
+      "reply6": "> **الرجاء إدخال أسمك في اللعبة**",
+      "reply7": "> **عذراً لايمكنني العثور على هذا اللاعب !**",
+      "reply8": "> **تمت عملية الشراء بنجاح !**",
+      "reply9": "> **عذراً فالشراء مغلق حالياً !**",
+      "reply10": "> **عذراً فأنت لست متواجد في المجموعة !**",
+      "reply11": "> **تم الشراء بواسطة : [mention]**",
+      "reply12": "> **عذراً فهذا العدد من الروبكس غير متوفر !**",
+      "reply13": "> **عذراً فلديك عملية شراء سابقة ، عليك إنهائها او إلغائها !**",
+      "reply14": "> **عذراً فليس لديك عمليات شراء لإلغائها !**",
+      "reply15": "> **تم إلغاء عملية الشراء بنجاح !**",
+      "reply16": "> **من فضلك قم بكتابة كلمة تعبر عن شكرك [room] !**",
+      "reply17": "> **رابط المجموعة : [url]**",
+      "reply18": "> **عذراً فقد حدثت مشكلة أثناء تحويل الروبكس **\n> **الرجاء التواصل مع فريق الدعم !**",
+      "reply19": "**عذراً فقد إنتهئ وقت التحويل !**"
+    }
+  }
+}
